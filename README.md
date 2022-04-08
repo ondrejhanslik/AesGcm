@@ -6,6 +6,8 @@
 
 ObjC implementation of [Galois/Counter Mode (GCM)](http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-38d.pdf) with Advanced Encryption System (AES).
 
+Converted to SPM to provide AES-GCM implementation for iOS platforms < iOS 13.
+
 ## Installation
 
 AesGcm is available through SPM.
