@@ -1,3 +1,9 @@
-Example/AesGcm.xcodeproj/xcuserdata/
-Example/AesGcm.xcworkspace/xcuserdata/
-Example/Pods/Pods.xcodeproj/xcuserdata/
+.DS_Store
+/.build
+/Packages
+/*.xcodeproj
+xcuserdata/
+DerivedData/
+.swiftpm/config/registries.json
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+.netrc

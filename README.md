@@ -8,11 +8,7 @@ ObjC implementation of [Galois/Counter Mode (GCM)](http://nvlpubs.nist.gov/nistp
 
 ## Installation
 
-AesGcm is available through [CocoaPods](http://cocoapods.org). To install it, simply add the following line to your Podfile:
-
-```ruby
-pod "AesGcm"
-```
+AesGcm is available through SPM.
 
 ## Usage
 
